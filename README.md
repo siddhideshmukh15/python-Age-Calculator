@@ -32,6 +32,5 @@ A simple Python project that calculates a person's current age based on their da
 * Basic Calculations
 * Python `datetime` Module
 
-## 👩‍💻 Author
-**Siddhi Deshmukh**
+
 
